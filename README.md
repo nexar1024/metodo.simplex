@@ -1,1 +1,0 @@
-"# Metodo_simplex" 
